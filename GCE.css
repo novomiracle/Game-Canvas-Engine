@@ -1,0 +1,15 @@
+.GC {
+    border: solid 1px black;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#ui {
+    position: absolute;
+}
+
+.forDeveloper {
+    /* display: none; */
+    color: rgb(19, 63, 19)
+}
